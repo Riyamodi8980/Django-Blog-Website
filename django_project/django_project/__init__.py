@@ -1,0 +1,1 @@
+#tell editor that this is python package
